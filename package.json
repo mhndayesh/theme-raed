@@ -1,11 +1,11 @@
 {
-  "name": "theme-raed",
-  "version": "1.0.3",
-  "description": "Salla Theme",
+  "name": "bloom-gift-theme",
+  "version": "1.0.0",
+  "description": "Bloom & Gift — Salla storefront theme",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SallaApp/theme-raed.git"
+    "url": "git+https://github.com/mhndayesh/theme-raed.git"
   },
   "scripts": {
     "preinstall": "npx only-allow pnpm",
